@@ -1,0 +1,1 @@
+ C:\\Users\\mbrandhuber\\Desktop\\App\\fitted\\.dart_tool\\flutter_build\\b091f9bcd7f7541b6e5921ce29ebc2f9\\native_assets.yaml: 

@@ -1,0 +1,13 @@
+com.example.fitted.app-jetified-annotation-experimental-1.1.0-0 C:\Users\mbrandhuber\.gradle\caches\transforms-3\4529cd9db265d21866bb643ee8d397a7\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.fitted.app-core-1.6.0-1 C:\Users\mbrandhuber\.gradle\caches\transforms-3\77b4a06127fb36c7d77b9d617d08902a\transformed\core-1.6.0\res
+com.example.fitted.app-jetified-window-1.0.0-beta04-2 C:\Users\mbrandhuber\.gradle\caches\transforms-3\87da41db39e09187ba992a68ecbb6aeb\transformed\jetified-window-1.0.0-beta04\res
+com.example.fitted.app-jetified-window-java-1.0.0-beta04-3 C:\Users\mbrandhuber\.gradle\caches\transforms-3\ae96c778c3807ec740afeaba5f047214\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.fitted.app-debug-4 C:\Users\mbrandhuber\Desktop\App\fitted\android\app\src\debug\res
+com.example.fitted.app-main-5 C:\Users\mbrandhuber\Desktop\App\fitted\android\app\src\main\res
+com.example.fitted.app-pngs-6 C:\Users\mbrandhuber\Desktop\App\fitted\build\app\generated\res\pngs\debug
+com.example.fitted.app-resValues-7 C:\Users\mbrandhuber\Desktop\App\fitted\build\app\generated\res\resValues\debug
+com.example.fitted.app-rs-8 C:\Users\mbrandhuber\Desktop\App\fitted\build\app\generated\res\rs\debug
+com.example.fitted.app-mergeDebugResources-9 C:\Users\mbrandhuber\Desktop\App\fitted\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.fitted.app-mergeDebugResources-10 C:\Users\mbrandhuber\Desktop\App\fitted\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.fitted.app-merged_res-11 C:\Users\mbrandhuber\Desktop\App\fitted\build\app\intermediates\merged_res\debug
+com.example.fitted.app-packaged_res-12 C:\Users\mbrandhuber\Desktop\App\fitted\build\shared_preferences_android\intermediates\packaged_res\debug
